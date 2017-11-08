@@ -1,4 +1,12 @@
 # piksi_rtk_gps
+**===== WARNING =====**
+
+**THIS REPOSITORY IS NOT LONGER MATAINED!**
+
+**Please checkout the LATEST ROS drivers at https://github.com/ethz-asl/mav_rtk_gps**
+
+**===== WARNING =====**
+
 ROS node to read SBP messages from an attached Piksi RTK device.
 
 
