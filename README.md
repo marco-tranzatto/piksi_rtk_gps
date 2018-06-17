@@ -3,7 +3,7 @@
 
 **THIS REPOSITORY IS NOT LONGER MATAINED!**
 
-**Please checkout the LATEST ROS drivers at https://github.com/ethz-asl/mav_rtk_gps**
+**Please checkout the LATEST ROS drivers at https://github.com/ethz-asl/ethz_piksi_ros**
 
 **===== WARNING =====**
 
